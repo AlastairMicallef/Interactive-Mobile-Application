@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkSheet2</string>
+    <string name="pasta">Pasta</string>
+    <string name="pizza">Pizza</string>
+    <string name="cappriciosa">Cappriciosa</string>
+    <string name="funghi">Funghi</string>
+    <string name="margherita">Margherita</string>
+</resources>
